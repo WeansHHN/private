@@ -5,12 +5,12 @@ Maintainer: Rootless LQM
 Installed-Size: 9016
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.rootless_1.0_iphoneos-arm64.deb
-Size: 3095610
-MD5sum: e8f969c39327d146b59660f06f0390aa
-SHA1: c52f97735f4d869dba637b8794466570389bd5ab
-SHA256: bf3d1b4a2d026ccbd81135cbf18b8c861f82a41b8e53497e9228863e82a719c4
-SHA512: 071dd8666cfd2389509f0b914d29783d77894da2436329a36aee16ca70aa3690a761bb5f9fd2362d0cc48e7f019ae4f90cafceaa166968fb2f51de9b65ebab40
-Description: IMGUI MOD MENU
-Name: IMGUI MOD MENU
+Size: 3095858
+MD5sum: ab2ed59d631c36f59bbe6e243fe8ea8e
+SHA1: a0dd149a3d333dc0a8dfa03bb8847a4db9d152fa
+SHA256: 6155ba62520f98e2124e89be4a9e90aee22df392aade125fd357d9cf79cfd4cc
+SHA512: b9ece914ff960e70e9027898eabdcf6d2f2fc90b5135409fa741ae683e58b1c7cc4d0782e3d4e00470097dba648cdb6f009eb0d13737db0e7c7277035e2bd886
+Description: AOV Mod Menu (Rootless)
+Name: AOV Mod Menu (Rootless)
 Author: rootless
 
