@@ -1,0 +1,16 @@
+Package: com.hhnios.rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: Rootless LQM
+Installed-Size: 9016
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.rootless_1.0_iphoneos-arm64.deb
+Size: 3095610
+MD5sum: e8f969c39327d146b59660f06f0390aa
+SHA1: c52f97735f4d869dba637b8794466570389bd5ab
+SHA256: bf3d1b4a2d026ccbd81135cbf18b8c861f82a41b8e53497e9228863e82a719c4
+SHA512: 071dd8666cfd2389509f0b914d29783d77894da2436329a36aee16ca70aa3690a761bb5f9fd2362d0cc48e7f019ae4f90cafceaa166968fb2f51de9b65ebab40
+Description: IMGUI MOD MENU
+Name: IMGUI MOD MENU
+Author: rootless
+
