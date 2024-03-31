@@ -1,3 +1,20 @@
+Package: com.hhnios.rootfull
+Architecture: iphoneos-arm
+Version: 1.5
+Maintainer: Rootfull LQM
+Installed-Size: 9028
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.rootfull_1.5_iphoneos-arm.deb
+Size: 3098576
+MD5sum: e0b70b2e223e6d3576c9dce6c974bc6e
+SHA1: 44eea55191fa20d7c59b9418a41d96cd9dc4c34d
+SHA256: 4010c216806f61ec3b99e156e5c94de4f15478449b1702c6a2320ff41f023591
+SHA512: 0a2c9b31db4edbed7218db78b653a1758183c3df28c5f61cb140899ec8a1341570b086d6a7fe5c513b9298fd455f0467ee3da33430eb4075912800fc8fd56053
+Description: AOV Mod Menu (Rootfull)
+Name: AOV Mod Menu (Rootfull)
+Author: Rootfull
+Icon: https://avatars.githubusercontent.com/u/137310130?v=4
+
 Package: com.hhnios.rootless
 Architecture: iphoneos-arm64
 Version: 1.5
