@@ -65,3 +65,20 @@ Name: AOV Mod Menu (Rootless)
 Author: rootless
 Icon: https://avatars.githubusercontent.com/u/137310130?v=4
 
+Package: com.hhnios.rootless
+Architecture: iphoneos-arm64
+Version: 2.5
+Maintainer: Rootless LQM
+Installed-Size: 10000
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.rootless_2.5_iphoneos-arm64.deb
+Size: 3566108
+MD5sum: 8784d5c19cf44865773c036a82e4a781
+SHA1: 7541f110c2250ee4a0352c669a1d110d1ae80839
+SHA256: b2134ed40a727cbd9b385c4d94e26cfa01ce982f8760a7c71054d77d6356a67b
+SHA512: e051f9d790be2620038ec12c2494619286e9a0c2c380d0777a0244338d3490186f6ebdf2e087d2341763eb5a78f44968b9df5b7bba9f3ffa75cd8abef3056501
+Description: AOV Mod Menu (Rootless)
+Name: AOV Mod Menu (Rootless)
+Author: rootless
+Icon: https://avatars.githubusercontent.com/u/137310130?v=4
+
