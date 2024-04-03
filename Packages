@@ -1,84 +1,34 @@
 Package: com.hhnios.rootfull
 Architecture: iphoneos-arm
-Version: 1.5
-Maintainer: Rootfull LQM
-Installed-Size: 9028
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.rootfull_1.5_iphoneos-arm.deb
-Size: 3098576
-MD5sum: e0b70b2e223e6d3576c9dce6c974bc6e
-SHA1: 44eea55191fa20d7c59b9418a41d96cd9dc4c34d
-SHA256: 4010c216806f61ec3b99e156e5c94de4f15478449b1702c6a2320ff41f023591
-SHA512: 0a2c9b31db4edbed7218db78b653a1758183c3df28c5f61cb140899ec8a1341570b086d6a7fe5c513b9298fd455f0467ee3da33430eb4075912800fc8fd56053
-Description: AOV Mod Menu (Rootfull)
-Name: AOV Mod Menu (Rootfull)
-Author: Rootfull
-Icon: https://avatars.githubusercontent.com/u/137310130?v=4
-
-Package: com.hhnios.rootfull
-Architecture: iphoneos-arm
-Version: 2.0
-Maintainer: Rootfull LQM
-Installed-Size: 9028
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.rootfull_2.0_iphoneos-arm.deb
-Size: 3099738
-MD5sum: 2ebeaffc1628a12425ce6f547bc25ce8
-SHA1: 8aaf41fd2a6a876c73a3dc353ab19f85f38256a0
-SHA256: 67b32b4d375eca09f5314a47f300fd3cd054c619a52f91280713e16a10374f0a
-SHA512: 36724161a41bc9a2fd01b6235fd7649d306066b01e0c5dd928ce5a4e9a777dc034f8a1d0fdbdbb5c968e9dcba492af0d51d01159b1a5bb3842210e74c011c3be
-Description: AOV Mod Menu (Rootfull)
-Name: AOV Mod Menu (Rootfull)
-Author: Rootfull
-Icon: https://avatars.githubusercontent.com/u/137310130?v=4
-
-Package: com.hhnios.rootless
-Architecture: iphoneos-arm64
-Version: 1.5
-Maintainer: Rootless LQM
-Installed-Size: 9040
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.rootless_1.5_iphoneos-arm64.deb
-Size: 3101848
-MD5sum: 11e032b68549466ccb1f01376e42a756
-SHA1: dfa809bacd4ce99173f71925691d08d05861ec18
-SHA256: 58a6174b09612b2c4f510b35c06d85290c0c7d9f6d3da8099cab0845d2fc11ce
-SHA512: aea5dfeeefe201c57dc33cd68a1868f45b30ae62813810761ede1270a5800ec858da729df4a469f749a178d16a0426072f87c21dbe62dbd8c4602210e9442bbf
-Description: AOV Mod Menu (Rootless)
-Name: AOV Mod Menu (Rootless)
-Author: rootless
-
-Package: com.hhnios.rootless
-Architecture: iphoneos-arm64
-Version: 2.0
-Maintainer: Rootless LQM
-Installed-Size: 10000
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.rootless_2.0_iphoneos-arm64.deb
-Size: 3567428
-MD5sum: 53a68a5d9cb90ecea19985aa7996dd75
-SHA1: 7da6473b9245f11467adee2e46f4e1fabc9a2d7d
-SHA256: acf5f429a4a19ceb3c03c8b05f9099be75886d742c7acabba897c8f29666ee56
-SHA512: 5ec32b96838f6ba533942f38395ee0fea89d3664163bf9d806e9c0ba52b5411c7b73380a4e5b89ea3d62044716cf8987a48187808e202431b2659472747fb836
-Description: AOV Mod Menu (Rootless)
-Name: AOV Mod Menu (Rootless)
-Author: rootless
-Icon: https://avatars.githubusercontent.com/u/137310130?v=4
-
-Package: com.hhnios.rootless
-Architecture: iphoneos-arm64
 Version: 2.5
-Maintainer: Rootless LQM
-Installed-Size: 10000
+Maintainer: Rootfull LQM
+Installed-Size: 480
 Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.rootless_2.5_iphoneos-arm64.deb
-Size: 3566108
-MD5sum: 8784d5c19cf44865773c036a82e4a781
-SHA1: 7541f110c2250ee4a0352c669a1d110d1ae80839
-SHA256: b2134ed40a727cbd9b385c4d94e26cfa01ce982f8760a7c71054d77d6356a67b
-SHA512: e051f9d790be2620038ec12c2494619286e9a0c2c380d0777a0244338d3490186f6ebdf2e087d2341763eb5a78f44968b9df5b7bba9f3ffa75cd8abef3056501
+Filename: ./DEB/com.hhnios.rootfull_2.5_iphoneos-arm.deb
+Size: 125076
+MD5sum: dbe3c1e015161b771e3826be60331c57
+SHA1: b8a28a08bf2f8d21dcc182dca58ee99c62b61359
+SHA256: cd31e67fa4192d8523ffbc790954d8fcaf676756d2cab996c8e983cd67c00bad
+SHA512: f6dbac1b169e7e96c808571bda5e9678123a54db0b95854c8103b7b73dc25006eacfc18de8ff2b70468fb25e234835cea9e656153d40689573d9488810975f3b
+Description: AOV Mod Menu (Rootfull)
+Name: AOV Mod Menu (Rootfull)
+Author: Rootfull
+Icon: https://avatars.githubusercontent.com/u/137310130?v=4
+
+Package: com.hhnios.rootless
+Architecture: iphoneos-arm64
+Version: 3.0
+Maintainer: Rootless LQM
+Installed-Size: 1404
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.rootless_3.0_iphoneos-arm64.deb
+Size: 576960
+MD5sum: d0b5a6dda9752be78f36de771f6c803a
+SHA1: 7a8505fda6fdb5c2252d016b27f7e38937057b45
+SHA256: d26c64a348440110204def5a7b9c80d6f9b33643f5f5e85e8412f1f3742a0ff5
+SHA512: 443906b40168d649757dd32383466ba57d5eaab2812ed90fbe7f62f33ac327c0f8f93c037da0e59650bfa1208bfc698980a065f5b05437f900e9ed7bf4ac2166
 Description: AOV Mod Menu (Rootless)
 Name: AOV Mod Menu (Rootless)
-Author: rootless
+Author: Rootless
 Icon: https://avatars.githubusercontent.com/u/137310130?v=4
 
